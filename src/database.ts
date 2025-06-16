@@ -15,3 +15,4 @@ const db = {
   bugs : {url : "https://github.com/CarlitosJPYT/Mi-Pagina-Web/issues"},
   homepage : "https://github.com/CarlitosJPYT/Mi-Pagina-Web#readme"
 }
+console.log(db);
