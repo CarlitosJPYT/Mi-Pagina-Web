@@ -1,7 +1,7 @@
 import java.util.Scanner; // Importar la clase Scanner para leer la entrada del usuario
 public class basedata {
     public static void main(String[] args) {
-        int numero = 0; // Variable para almacenar el número ingresado
+        double numero = 0; // Variable para almacenar el número ingresado
         System.out.println("Ingrese un número: ");
         Scanner scanner = new Scanner(System.in);
         numero = scanner.nextInt(); // Leer el número ingresado por el usuario

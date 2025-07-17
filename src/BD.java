@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class BD {
     public static void main(String[] args) {
-        int resultado = 0; // Variable para almacenar el resultado de la operación
+        double resultado = 0; // Variable para almacenar el resultado de la operación
         System.out.println("\t Bienvenido a la calculadora de operaciones básicas.");
         System.out.println("Ingresa el primer numreo: ");
         Scanner scanner = new Scanner(System.in);
