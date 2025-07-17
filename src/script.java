@@ -7,7 +7,7 @@ public class script {
     }
     static void suma(int numero1, int numero2, int resultado) {
         resultado = numero1 + numero2; // Sumar los dos números
-        System.out.println("La suma de " + numero1 + " y " + numero2 + "es: " + resultado);
+        System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + resultado);
     }
     static void resta(int numero1, int numero2, int resultado) {
         resultado = numero1 - numero2; // Restar los dos números
