@@ -1,3 +1,4 @@
+package frontend;
 public class script {
     public static void main(String[] args) {
         suma(6, 8, 0); // Llamar al método suma con dos números
