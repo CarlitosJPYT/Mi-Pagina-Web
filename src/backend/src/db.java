@@ -1,4 +1,4 @@
-package backend;
+package backend.src;
 import java.util.Scanner;
 public class db {
     public static void main(String[] args) {

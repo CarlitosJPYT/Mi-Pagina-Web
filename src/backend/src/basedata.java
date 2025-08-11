@@ -1,4 +1,4 @@
-package backend;
+package backend.src;
 import java.util.Scanner; // Importar la clase Scanner para leer la entrada del usuario
 public class basedata {
     public static void main(String[] args) {
