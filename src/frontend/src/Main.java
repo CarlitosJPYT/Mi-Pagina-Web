@@ -1,4 +1,5 @@
-package frontend;
+package frontend.src;
+
 public class Main {
     public static void main(String[] args) {
         Style style = new Style();
